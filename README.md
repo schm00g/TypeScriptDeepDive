@@ -1,3 +1,3 @@
 # TypeScriptDeepDive
 
-Working through [this book](https://basarat.gitbook.io/typescript/)
+Working through [Typescript Deep Dive](https://basarat.gitbook.io/typescript/).
